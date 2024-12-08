@@ -5,8 +5,8 @@
 ## План курса
 <big><pre>
     1. [**Введение в machine learning**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_1)
-    2. [**Линейные регрессии - I**]((https://github.com/hdrbv/machine_learning_hse/tree/main/week_2)
-    3. [**Линейные регрессии - II**]((https://github.com/hdrbv/machine_learning_hse/tree/main/week_3)
+    2. [**Линейные регрессии - I**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_2)
+    3. [**Линейные регрессии - II**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_3)
     4. Регуляризация. Классификация - I
     5. Классификация - II
     6. Логистическая регрессия, SVM
