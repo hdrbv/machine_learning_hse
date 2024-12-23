@@ -9,7 +9,7 @@
     3. [**Линейные регрессии - II**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_3)
     4. [**Регуляризация. Классификация - I**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_4)
     5. [**Классификация - II**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_5)
-    6. Логистическая регрессия, SVM
+    6. [**Логистическая регрессия, SVM**](https://github.com/hdrbv/machine_learning_hse/tree/main/week_6)
     7. Нелинейная, многоклассовая классификация
     8. Снижение размерности
     9. Кластеризация
