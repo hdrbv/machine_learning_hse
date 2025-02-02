@@ -22,4 +22,13 @@
 
 ## Domesticum[^1]
 
+[Exercitationem I](./home_assignments/ha1)
+
+[Exercitationem II](./home_assignments/ha2)
+
+[Exercitationem III](./home_assignments/ha3)
+
+[Exercitationem IV](./home_assignments/ha4)
+
+
 [^1]: https://classroom.google.com/c/NzM1MjE2NTQ5NjE2
