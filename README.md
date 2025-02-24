@@ -16,7 +16,7 @@
     10. [**Решающие деревья**](./week_10)
     11. [**Рекомендательные системы**](./week_11)
     12. [**Ансамбли. Бэггинг**](./week_12)
-    13. Бустинг 
+    13. [**Ансамбли. Бустинг**](./week_13) 
     14. Обработка естественного языка
 </pre></big>
 
@@ -30,5 +30,8 @@
 
 [Exercitationem IV](./home_assignments/ha4)
 
+[Exercitationem V](./home_assignments/ha5)
+
+[Exercitationem VI](./home_assignments/ha5)
 
 [^1]: https://classroom.google.com/c/NzM1MjE2NTQ5NjE2
