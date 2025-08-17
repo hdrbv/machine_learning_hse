@@ -15,7 +15,7 @@
     9. [**Кластеризация**](./week_9)
     10. [**Решающие деревья**](./week_10)
     11. [**Рекомендательные системы**](./week_11)
-    12. Ансамбли. Бэггинг
+    12. [**Ансамбли. Бэггинг**](./week_12)
     13. Ансамбли. Бустинг 
     14. Обработка естественного языка 
     * [**Приложение: материалы по большим языковым моделям (LLMs)**](./extra)
@@ -23,6 +23,13 @@
 
 ## Domesticum
 
-TBD
+[Exercitationem I](./home_assignments/ha1)
+
+[Exercitationem II](./home_assignments/ha2)
+
+[Exercitationem III](./home_assignments/ha3)
+
+[Exercitationem IV](./home_assignments/ha4)
+
 
 
