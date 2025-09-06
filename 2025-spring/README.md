@@ -16,7 +16,7 @@
     10. [**Решающие деревья**](./week_10)
     11. [**Рекомендательные системы**](./week_11)
     12. [**Ансамбли. Бэггинг**](./week_12)
-    13. Ансамбли. Бустинг 
+    13. [**Ансамбли. Бустинг**](./week_13) 
     14. Обработка естественного языка 
     * [**Приложение: материалы по большим языковым моделям (LLMs)**](./extra)
 </pre></big>
@@ -30,6 +30,10 @@
 [Exercitationem III](./home_assignments/ha3)
 
 [Exercitationem IV](./home_assignments/ha4)
+
+[Exercitationem V](./home_assignments/ha5)
+
+[Exercitationem VI](./home_assignments/ha6)
 
 
 
